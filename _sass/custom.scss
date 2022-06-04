@@ -1,55 +1,12 @@
 /* start custom scss snippet */
 
 
-@import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono|Open+Sans');
+@import url('https://cdn.rawgit.com/lonekorean/gist-syntax-themes/d49b91b3/stylesheets/one-dark.css');
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 body {
   margin: 20px;
-  font: 16px 'Open Sans', sans-serif;
+  font: 14px 'Open Sans', sans-serif;
 }
-
-body .gist .gist-file {
-  margin-bottom: 0;
-  border: 1px dashed #adb5bd;
-  border-radius: 0;
-}
-
-body .gist .gist-data {
-  border-bottom: none;
-  border-radius: 0;
-  background-color: #f1f3f5;
-}
-
-body .gist .blob-wrapper {
-  border-radius: 0;
-}
-
-body .gist .highlight {
-  background-color: transparent;
-  font-family: 'Droid Sans Mono', monospace;
-  font-size: 10px;
-}
-
-body .gist .highlight td {
-  padding: 5px 15px !important;
-  line-height: 1;
-  font-family: inherit;
-  font-size: inherit;
-}
-
-body .gist tr:first-child td {
-  padding-top: 15px !important;
-}
-
-body .gist tr:last-child td {
-  padding-bottom: 15px !important;
-}
-
-body .gist .blob-num {
-  color: #ced4da;
-  background-color: #7e7e7e;
-  pointer-events: none;
-}
-
 
 /* end custom scss snippet */

@@ -17,7 +17,7 @@ body .gist .gist-file {
 body .gist .gist-data {
   border-bottom: none;
   border-radius: 0;
-  background-color: #b9b8b8;
+  background-color: #f1f3f5;
 }
 
 body .gist .blob-wrapper {
@@ -27,7 +27,7 @@ body .gist .blob-wrapper {
 body .gist .highlight {
   background-color: transparent;
   font-family: 'Droid Sans Mono', monospace;
-  font-size: 14px;
+  font-size: 10px;
 }
 
 body .gist .highlight td {
@@ -46,10 +46,10 @@ body .gist tr:last-child td {
 }
 
 body .gist .blob-num {
-  color: #b9b8b8;
-  padding-left: 5px;
-  padding-right: 5px;
-  background-color: #919090;
+  color: #ced4da;
+  background-color: #7e7e7e;
   pointer-events: none;
 }
+
+
 /* end custom scss snippet */

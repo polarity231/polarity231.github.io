@@ -17,7 +17,7 @@ body .gist .gist-file {
 body .gist .gist-data {
   border-bottom: none;
   border-radius: 0;
-  background-color: #f1f3f5;
+  background-color: #b9b8b8;
 }
 
 body .gist .blob-wrapper {
@@ -46,8 +46,10 @@ body .gist tr:last-child td {
 }
 
 body .gist .blob-num {
-  color: #ced4da;
-  background-color: #495057;
+  color: #b9b8b8;
+  padding-left: 5px;
+  padding-right: 5px;
+  background-color: #919090;
   pointer-events: none;
 }
 /* end custom scss snippet */

@@ -6,7 +6,13 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 body {
   margin: 20px;
-  font: 14px 'Open Sans', sans-serif;
 }
 
+
+body .gist .blob-num {
+    pointer-events: none;
+    border: 0;
+  }
+  
+  
 /* end custom scss snippet */

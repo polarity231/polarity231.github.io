@@ -12,7 +12,16 @@ body {
 body .gist .blob-num {
     pointer-events: none;
     border: 0;
+}
+
+body .gist .blob-num {
+    background-color: #2D2D2D;
+
   }
-  
+
+  body .gist .gist-data {
+
+    background-color: #2D2D2D;
+  }
   
 /* end custom scss snippet */
